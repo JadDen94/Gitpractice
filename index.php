@@ -7,7 +7,7 @@
 </head>
 <body>
     <main>
-        <h1 class="text-center text-warning">Hello, World!</h1>
+        <h1>Hello, World!</h1>
         <p>This is a simple HTML document.</p>
         <p>What ia a simple HTML document</p>
     </main>
