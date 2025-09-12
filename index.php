@@ -1,1 +1,18 @@
-gghjm ou mjb
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>Hello, World!</h1>
+        <p>This is a simple HTML document.</p>
+        <p>What ia a simple HTML document</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Website</p>
+    </footer>
+</body>
+</html>
