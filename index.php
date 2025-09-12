@@ -11,6 +11,8 @@
         <p>Tony stark.</p>
         <p>i'm iron man</p>
         <p>KKK</P>
+        <H1>INvestor LUkharz</H1>
+        <H1>Github class</H1>
     </main>
     <footer>
         <p>&copy; 2024 My Website</p>
